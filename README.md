@@ -28,5 +28,4 @@ The system helps candidates:
 
 ---
 
-## 🧩 System Architecture
 
